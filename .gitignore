@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EntityUi/v15
+/EntityUi/bin/Debug
+/EntityUi/obj/Debug
+/EntityUi/EntityUi.csproj.vspscc
+/EntityUi.Data/bin/Debug
+/EntityUi.Data/obj/Debug
+/EntityUi.Data/EntityUi.Data.csproj.vspscc
+/EntityUi.Test/bin/Debug
+/EntityUi.Test/obj/Debug
+/EntityUi.Test/EntityUi.Test.csproj.vspscc
+/EntityUi.Test.Repository/bin/Debug
+/EntityUi.Test.Repository/obj/Debug
+/EntityUi.Test.Repository/EntityUi.Test.Repository.csproj.vspscc
+/packages
